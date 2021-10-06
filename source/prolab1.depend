@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1605273044 source:c:\users\ferhat\desktop\pro-lab\prolab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<GL/freeglut.h>
+	"global_tanimlamalar.h"
+	"koordinat.h"
+	"dosya_islemleri.h"
+	"cizim_algoritmalari.h"
+	"cizim_fonksiyonlari.h"
+	"egri_cizdirme_algoritmalari.h"
+	"egri_cizdirme_fonksiyonlari.h"
+
+1605221158 c:\users\ferhat\desktop\pro-lab\prolab1\global_tanimlamalar.h
+
+1604680562 c:\users\ferhat\desktop\pro-lab\prolab1\koordinat.h
+
+1605291067 c:\users\ferhat\desktop\pro-lab\prolab1\dosya_islemleri.h
+
+1605272502 c:\users\ferhat\desktop\pro-lab\prolab1\cizim_algoritmalari.h
+
+1605269671 c:\users\ferhat\desktop\pro-lab\prolab1\cizim_fonksiyonlari.h
+	<math.h>
+
+1605287762 c:\users\ferhat\desktop\pro-lab\prolab1\egri_cizdirme_algoritmalari.h
+
+1605220739 c:\users\ferhat\desktop\pro-lab\prolab1\egri_cizdirme_fonksiyonlari.h
+
